@@ -3,17 +3,23 @@
 ## basic packages
 _a list of R packages useful for digital humanities stuff_
 
+### Datenmanipulation
+
 * tidyverse
 * dplyr
+* lubridate: Datumsbearbeitung
+* ggplot: Visualisierung
+* here: Directory-Organisation
+
+### Textmanipulation
+
 * stringr
 * tidytext
-* lubridate
-* ggplot
-* here
 
 ## text corpora
 * gutenbergr
 * janeaustenr
+* tesseract: OCR
 
 
 ## things I have to check out
@@ -27,6 +33,6 @@ _a list of R packages useful for digital humanities stuff_
 * scales
 * chorrrds
 
-## Topic Modeling
+### Topic Modeling
 * topicmodels
 * ldatuning
