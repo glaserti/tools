@@ -9,6 +9,7 @@ _a list of R packages useful for digital humanities stuff_
 * tidytext
 * lubridate
 * ggplot
+* here
 
 ## text corpora
 * gutenbergr
