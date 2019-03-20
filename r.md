@@ -22,7 +22,7 @@ _a list of R packages useful for digital humanities stuff_
 * ggjoy
 * quanteda
 * readtext
-* corr
+* corrr
 * scales
 * chorrrds
 
